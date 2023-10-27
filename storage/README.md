@@ -1,0 +1,1 @@
+go build y creas un exe
